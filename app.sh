@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello from GitHub to Jenkins!":
+echo "Hello from GitHub to Jenkins!"
